@@ -1,0 +1,43 @@
+.inicio{
+    background-color: rgb(33, 37, 41);
+    height: 900px;
+}
+.inicio2{
+    background-color: white;
+    height: 900px;
+}
+.inicio3{
+    background-color: rgb(33, 37, 41);
+    height: 900px;
+}
+.inicio4{
+    background-color: white;
+    height: 900px;
+}
+.inicio5{
+    background-color: rgb(33, 37, 41);
+    height: 400px;
+}
+.img1{
+    margin-top: 200px;
+    margin-left: 700px;
+    height: 180px;
+}
+.img2{
+    margin-top: 10px;
+    margin-left: 830px;
+    height: 100px;
+
+}
+.titulo{
+    color: white;
+    margin-top: 200spx;
+    margin-left: 700px;
+    font-family:'Times New Roman', Times, serif ;
+}
+.textomin1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 810px;
+    font-family:'Times New Roman', Times, serif ;
+}
