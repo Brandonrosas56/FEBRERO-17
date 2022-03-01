@@ -1,46 +1,60 @@
 .inicio{
     background-color: rgb(33, 37, 41);
-    height: 1000px;
+    height: 900px;
+}
+.titulo{
+    color: white;
+    margin-top:70px;
+    font-family:'Times New Roman', Times, serif ;  
+}
+.img1{
+    margin-top: 200px;
+    height: 180px; 
+}
+.img2{
+    margin-top: 30px;
+    height: 100px;
+   
+}
+.textomin1{
+    color: white;
+    margin-top: 30px;
+    font-family:'Times New Roman', Times, serif ;  
 }
 .inicio2{
     background-color: white;
     height: 900px;
 }
+.titulo2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
 .inicio3{
     background-color: rgb(33, 37, 41);
-    height: 900px;
+    height: 600px;
+}
+.titulo3{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif; 
+    margin-top: 100px;
 }
 .inicio4{
     background-color: white;
-    height: 900px;
+    height: 600px;
+}
+.bajar{
+    margin-top: 300px;
+
+}
+label{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
 .inicio5{
     background-color: rgb(33, 37, 41);
     height: 400px;
 }
-.img1{
-    margin-top: 200px;
-    height: 180px;
-}
-.img2{
-    margin-top: 30px;
-    height: 100px;
-}
-.titulo{
-    color: white;
-    margin-top:70px;
-    font-family:'Times New Roman', Times, serif ;
-}
-.titulo2{
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    margin-left: 810px;
-}
-.textomin1{
-    color: white;
-    margin-top: 30px;
-    font-family:'Times New Roman', Times, serif ;
-}
-.cms4{
-    height: 350px;
+p{
+    color:black;
 }
